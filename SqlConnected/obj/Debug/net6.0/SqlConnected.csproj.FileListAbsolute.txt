@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\SqlConnected\SqlConnected\obj\Debug\net6.0\SqlConnected.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SqlConnected\SqlConnected\obj\Debug\net6.0\SqlConnected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\SqlConnected\SqlConnected\obj\Debug\net6.0\SqlConnected.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SqlConnected\SqlConnected\obj\Debug\net6.0\SqlConnected.AssemblyInfo.cs
+C:\Users\User\Desktop\SqlConnected\SqlConnected\obj\Debug\net6.0\SqlConnected.csproj.CoreCompileInputs.cache
